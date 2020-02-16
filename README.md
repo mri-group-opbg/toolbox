@@ -1,16 +1,5 @@
 # README
 
-Install snap toolkit:
-
-```
-sudo snap install --classic snapcraft
-```
-
-build snap:
-
-```
-snapcraft
-```
+toolbox is a collection of scripts distributed via debian package
 
 
-# toolbox
